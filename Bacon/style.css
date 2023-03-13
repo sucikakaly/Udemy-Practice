@@ -3,6 +3,10 @@ h1 {
   font-size: 200px;
 }
 
-img {
+.bacon {
   background-color: red;
+}
+
+.broccoli {
+  background-color: green;
 }
